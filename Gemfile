@@ -6,6 +6,9 @@ gem 'therubyracer'
 # Ruby version
 ruby '2.0.0'
 
+# bcrypt-ruby
+gem 'bcrypt-ruby', '3.0.1'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
